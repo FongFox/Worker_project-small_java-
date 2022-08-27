@@ -1,4 +1,0 @@
-1a             |Nguyen Van A   |nam  |1990 |10000     |10   
-2b             |Nguyen Thi B   |nu   |1995 |11000     |11   
-3c             |Tran Tan P     |nam  |2000 |7000      |7    
-4d             |Tran Van C     |nam  |1992 |5000      |5    
